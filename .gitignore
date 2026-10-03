@@ -1,0 +1,7 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Received files are local to each peer; keep only the empty folder
+downloads/*
+!downloads/.gitkeep
